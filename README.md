@@ -20,3 +20,5 @@ if number==0:
 print("0입니다")
 
 ```
+
+[](https://github.com/YoungMinSW/git_practice/blob/main/README.md)
