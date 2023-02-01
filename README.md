@@ -21,4 +21,4 @@ print("0입니다")
 
 ```
 
-[](https://github.com/YoungMinSW/git_practice/blob/main/README.md)
+[링크삽입](https://github.com/YoungMinSW/git_practice/blob/main/README.md)
